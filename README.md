@@ -2,6 +2,8 @@
 **Sistem Pengurusan Profil Pensyarah Jabatan Teknologi Maklumat**  
 *(Lecturer Profile Management System – Information Technology Department)*
 
+![Paparan Sistem](docs/images/project-overview.png)
+
 ---
 
 ## 📌 Pengenalan
@@ -49,14 +51,6 @@ Ketua Jabatan boleh menjana laporan seperti:
 - Ketua Jabatan sukar mendapatkan:
   - Data terkini pensyarah  
   - Analisis dan laporan yang tepat  
-
----
-
-## 🖼️ Paparan Sistem (Screenshots)
-
-> Contoh antara muka sistem SPPPJTM:
-
-![Paparan Sistem](docs/images/project-overview.png)
 
 ---
 
