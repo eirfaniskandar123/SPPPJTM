@@ -1,4 +1,4 @@
-# SPPPJTM  
+# SPPPJTM (PTA)
 **Sistem Pengurusan Profil Pensyarah Jabatan Teknologi Maklumat**  
 *(Lecturer Profile Management System – Information Technology Department)*
 
