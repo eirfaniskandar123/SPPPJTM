@@ -62,14 +62,8 @@ Ketua Jabatan boleh menjana laporan seperti:
 
 ## 🛠️ Teknologi Digunakan
 
-- Backend: *(Nyatakan – contoh: PHP / Laravel / Node.js)*  
-- Frontend: *(HTML, CSS, Bootstrap, etc.)*  
-- Database: *(MySQL / PostgreSQL)*  
+- Backend: *PHP*
+- Frontend: *HTML, CSS, Bootstrap*  
+- Database: *MySQL*  
 
 ---
-
-## 🚀 Cara Pemasangan
-
-```bash
-git clone https://github.com/username/SPPPJTM.git
-cd SPPPJTM
